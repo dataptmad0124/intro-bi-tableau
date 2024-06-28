@@ -1,0 +1,6 @@
+https://public.tableau.com/app/profile/juan.manuel.pardo5300/viz/lab_intro_bi_tableau/Hoja13?publish=yes
+
+El lab tiene en total, 12 hojas. 
+Para cambiar las hojas, ir al enlace y simplemente cambiar "Hoja13", por "Hoja12" por ejemplo.
+Ya que este lab de tableau no tiene historia.
+
